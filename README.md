@@ -5,8 +5,9 @@ The project is a series of liveProjects that teaches you how to use specific alg
 This series of project steps involve using Python and various algorithms to manipulate binary and N-ary trees. The focus will be on sorting data, as well as storing, finding, and removing data in sorted trees. Additionally, it explores different layout approaches for organizing charts. By the end of the project, a base for a production-ready project on manipulating trees in Python and creating effective organizational charts will be scripted.
 
 ### Node Classes
+The classes BinaryNode and NaryNode have variables that refer to other objects of the same class. For instance, a BinaryNode can have a maximum of two BinaryNode "children". The recursive structure of a tree is made possible by the fact that nodes can have children that are also node objects.
 
-See: [binary_node1](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node1.ipynb)
+See: [binary_node1](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node1.ipynb),
 See: [nary_node1](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node1.ipynb)
 ### Outline Views
 ### Exhaustive Search
