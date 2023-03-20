@@ -1,2 +1,2 @@
 # Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach
-The project is a series of projects that teaches you how to use specific algorithms to solve important programming problems.
+The project is a series of liveProjects that teaches you how to use specific algorithms to solve important programming problems. It covers topics such as recursion, linked data structures, trees, network algorithms, and more. You'll gain practical experience with various algorithmic topics, data structures, and programming techniques in this series of projects. Overall, this project aims to provide a comprehensive understanding of algorithms and their practical applications in programming.
