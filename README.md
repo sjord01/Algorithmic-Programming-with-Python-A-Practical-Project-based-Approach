@@ -12,6 +12,9 @@ See: [nary_node1](https://github.com/sjord01/Algorithmic-Programming-with-Python
 ### Outline Views
 This milestone showcases recursion, which is a crucial concept in trees. Additionally, it highlights the advantage of working with n-ary trees over binary ones, as an n-ary tree enables looping through a node's children, rather than dealing with each child individually. In fact, in certain scenarios, it might be more convenient to use an n-ary node class to represent a binary tree. However, some adjustments may be necessary to ensure that no node has more than two children in its children collection.
 ### Exhaustive Search
+If you compare the str method (from the previous milestone) and the find_node method (from this milestone), you will notice that both methods use recursive traversal to perform some action throughout the tree. While the str method prints information about each visited node, the find_node method compares the value of the current node with a target value.
+
+One notable difference between the two methods is that the find_node method can terminate the search as soon as it finds the target value, whereas str method always visits every node in the tree. Thus, while the find_node method is considered an exhaustive search since it may potentially visit every node in the tree, the str method is even more exhaustive as it always visits every node.
 ### Traversals
 ### Drawing
 ### Org Charts
