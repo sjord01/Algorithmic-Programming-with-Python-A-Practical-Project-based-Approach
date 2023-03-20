@@ -26,6 +26,10 @@ One notable difference between the two methods is that the find_node method can 
 See: [binary_node3](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node3.ipynb),
 See: [nary_node3](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node3.ipynb)
 ### Traversals
+This project phase explores the traversal methods in a tree data structure, which involve recursively traversing the tree in different orders to visit its nodes. The methods covered in this context are preorder, inorder, postorder, and breadth-first traversals. The difference between these methods lies in the order in which they visit a node's children. While preorder, inorder, and postorder traverse to the bottom of the tree and work their way back up, breadth-first traversal uses a queue to visit nodes in a different order. All these methods build a list of visited nodes that can be iterated over to perform some action or execute a given method for each node.
+
+See: [binary_node4](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node4.ipynb),
+See: [nary_node4](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node4.ipynb)
 ### Drawing
 ### Org Charts
 ### Updating Sorted Trees
