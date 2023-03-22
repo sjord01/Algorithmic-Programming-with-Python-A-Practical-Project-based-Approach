@@ -31,6 +31,13 @@ This project phase explores the traversal methods in a tree data structure, whic
 See: [binary_node4](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node4.ipynb),
 See: [nary_node4](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node4.ipynb)
 ### Drawing
+This milestone is challengine in which separate recursive traversals of a tree are used to perform layout, draw links, and draw nodes. While each individual task is relatively simple, performing them in separate methods makes them easier to implement. However, it is possible to perform all the tasks in one recursive traversal, though it requires determination. The key is to perform each task after a recursive call returns, as each node's position depends on the positions of its children. The recommended approach follows the basic pattern of the "arrange_subtree" method: after arranging child subtrees and positioning the current node, links between the node and its children can be drawn followed by drawing the child nodes.
+
+![Image 2023-03-21 at 12 16 PM](https://user-images.githubusercontent.com/104819501/226789277-d239eb62-a899-4620-beaf-970dc99f1277.jpeg)
+![Image 2023-03-21 at 12 34 PM](https://user-images.githubusercontent.com/104819501/226789349-505e8b4c-b10f-453f-9049-c3c6e4de2bf5.jpeg)
+
+See: [binary_node5](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node5.ipynb)
+See: [nary_node5](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node5.ipynb)
 ### Org Charts
 ### Updating Sorted Trees
 
