@@ -36,7 +36,7 @@ This milestone is challengine in which separate recursive traversals of a tree a
 ![Image 2023-03-21 at 12 16 PM](https://user-images.githubusercontent.com/104819501/226789277-d239eb62-a899-4620-beaf-970dc99f1277.jpeg)
 ![Image 2023-03-21 at 12 34 PM](https://user-images.githubusercontent.com/104819501/226789349-505e8b4c-b10f-453f-9049-c3c6e4de2bf5.jpeg)
 
-See: [binary_node5](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node5.ipynb)
+See: [binary_node5](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/binary_node5.ipynb),
 See: [nary_node5](https://github.com/sjord01/Algorithmic-Programming-with-Python-A-Practical-Project-based-Approach/blob/main/nary_node5.ipynb)
 ### Org Charts
 ### Updating Sorted Trees
